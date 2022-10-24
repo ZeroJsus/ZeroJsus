@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I`m current working on Frontend develop.
+
 <!--
 **ZeroJsus/ZeroJsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
